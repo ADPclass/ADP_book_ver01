@@ -1,396 +1,396 @@
-,school,sex,age,address,famsize,Pstatus,Medu,Fedu,reason,guardian,traveltime,studytime,failures,paid,activities,famrel,freetime,absences,absences_grade
-0,GP,F,18,U,GT3,A,4,4,course,mother,2,2,0,no,no,4,3,6,3
-1,GP,F,17,U,GT3,T,1,1,course,father,1,2,0,no,no,5,3,4,2
-2,GP,F,15,U,LE3,T,1,1,other,mother,1,2,3,yes,no,4,3,10,4
-3,GP,F,15,U,GT3,T,4,2,home,mother,1,3,0,yes,yes,3,2,2,1
-4,GP,F,16,U,GT3,T,3,3,home,father,1,2,0,yes,no,4,3,4,2
-5,GP,M,16,U,LE3,T,4,3,reputation,mother,1,2,0,yes,yes,5,4,10,4
-6,GP,M,16,U,LE3,T,2,2,home,mother,1,2,0,no,no,4,4,0,1
-7,GP,F,17,U,GT3,A,4,4,home,mother,2,2,0,no,no,4,1,6,3
-8,GP,M,15,U,LE3,A,3,2,home,mother,1,2,0,yes,no,4,2,0,1
-9,GP,M,15,U,GT3,T,3,4,home,mother,1,2,0,yes,yes,5,5,0,1
-10,GP,F,15,U,GT3,T,4,4,reputation,mother,1,2,0,yes,no,3,3,0,1
-11,GP,F,15,U,GT3,T,2,1,reputation,father,3,3,0,no,yes,5,2,4,2
-12,GP,M,15,U,LE3,T,4,4,course,father,1,1,0,yes,yes,4,3,2,1
-13,GP,M,15,U,GT3,T,4,3,course,mother,2,2,0,yes,no,5,4,2,1
-14,GP,M,15,U,GT3,A,2,2,home,other,1,3,0,no,no,4,5,0,1
-15,GP,F,16,U,GT3,T,4,4,home,mother,1,1,0,no,no,4,4,4,2
-16,GP,F,16,U,GT3,T,4,4,reputation,mother,1,3,0,yes,yes,3,2,6,3
-17,GP,F,16,U,GT3,T,3,3,reputation,mother,3,2,0,no,yes,5,3,4,2
-18,GP,M,17,U,GT3,T,3,2,course,mother,1,1,3,no,yes,5,5,16,5
-19,GP,M,16,U,LE3,T,4,3,home,father,1,1,0,yes,yes,3,1,4,2
-20,GP,M,15,U,GT3,T,4,3,reputation,mother,1,2,0,no,no,4,4,0,1
-21,GP,M,15,U,GT3,T,4,4,other,father,1,1,0,yes,no,5,4,0,1
-22,GP,M,16,U,LE3,T,4,2,course,mother,1,2,0,no,yes,4,5,2,1
-23,GP,M,16,U,LE3,T,2,2,reputation,mother,2,2,0,no,yes,5,4,0,1
-24,GP,F,15,R,GT3,T,2,4,course,mother,1,3,0,yes,yes,4,3,2,1
-25,GP,F,16,U,GT3,T,2,2,home,mother,1,1,2,yes,no,1,2,14,5
-26,GP,M,15,U,GT3,T,2,2,home,mother,1,1,0,yes,no,4,2,2,1
-27,GP,M,15,U,GT3,T,4,2,other,mother,1,1,0,yes,no,2,2,4,2
-28,GP,M,16,U,LE3,A,3,4,home,mother,1,2,0,no,yes,5,3,4,2
-29,GP,M,16,U,GT3,T,4,4,home,mother,1,2,0,yes,yes,4,4,16,5
-30,GP,M,15,U,GT3,T,4,4,home,mother,1,2,0,yes,no,5,4,0,1
-31,GP,M,15,U,GT3,T,4,4,reputation,mother,2,2,0,no,yes,4,3,0,1
-32,GP,M,15,R,GT3,T,4,3,course,mother,1,2,0,no,yes,4,5,0,1
-33,GP,M,15,U,LE3,T,3,3,course,mother,1,2,0,no,yes,5,3,0,1
-34,GP,M,16,U,GT3,T,3,2,home,mother,1,1,0,yes,no,5,4,0,1
-35,GP,F,15,U,GT3,T,2,3,other,father,2,1,0,no,yes,3,5,0,1
-36,GP,M,15,U,LE3,T,4,3,home,mother,1,3,0,no,yes,5,4,2,1
-37,GP,M,16,R,GT3,A,4,4,reputation,mother,2,3,0,no,yes,2,4,7,3
-38,GP,F,15,R,GT3,T,3,4,course,mother,1,3,0,yes,yes,4,3,2,1
-39,GP,F,15,R,GT3,T,2,2,reputation,mother,1,1,0,yes,yes,4,3,8,3
-40,GP,F,16,U,LE3,T,2,2,home,mother,2,2,1,no,yes,3,3,25,
-41,GP,M,15,U,LE3,T,4,4,home,other,1,1,0,no,no,5,4,8,3
-42,GP,M,15,U,GT3,T,4,4,course,father,1,2,0,no,yes,4,3,2,1
-43,GP,M,15,U,GT3,T,2,2,course,father,1,1,0,no,no,5,4,0,1
-44,GP,F,16,U,LE3,T,2,2,course,father,2,2,1,no,yes,4,3,14,5
-45,GP,F,15,U,LE3,A,4,3,course,mother,1,2,0,yes,yes,5,2,8,3
-46,GP,F,16,U,LE3,A,3,3,home,mother,1,2,0,no,no,2,3,12,5
-47,GP,M,16,U,GT3,T,4,3,reputation,mother,1,4,0,no,yes,4,2,4,2
-48,GP,M,15,U,GT3,T,4,2,home,mother,1,2,0,yes,no,4,3,2,1
-49,GP,F,15,U,GT3,T,4,4,other,father,1,2,1,no,yes,4,4,2,1
-50,GP,F,16,U,LE3,T,2,2,course,mother,3,2,0,yes,no,4,3,2,1
-51,GP,F,15,U,LE3,T,4,2,other,mother,1,2,0,yes,no,4,3,2,1
-52,GP,M,15,U,LE3,A,4,2,other,father,2,1,1,no,no,5,5,6,3
-53,GP,F,15,U,GT3,T,4,4,course,mother,1,1,0,yes,no,3,3,0,1
-54,GP,F,15,U,LE3,A,3,3,other,mother,1,1,0,yes,no,5,3,6,3
-55,GP,F,16,U,GT3,A,2,1,other,mother,1,2,0,yes,yes,5,3,8,3
-56,GP,F,15,U,GT3,A,4,3,reputation,mother,1,2,0,yes,yes,4,3,0,1
-57,GP,M,15,U,GT3,T,4,4,reputation,mother,1,2,0,no,yes,3,2,4,2
-58,GP,M,15,U,LE3,T,1,2,home,father,1,2,0,no,yes,4,3,2,1
-59,GP,F,16,U,GT3,T,4,2,course,mother,1,2,0,no,no,4,2,2,1
-60,GP,F,16,R,GT3,T,4,4,other,mother,1,2,0,no,yes,2,4,6,3
-61,GP,F,16,U,GT3,T,1,1,course,father,4,1,0,no,yes,5,5,6,3
-62,GP,F,16,U,LE3,T,1,2,reputation,father,1,2,0,no,yes,4,4,4,2
-63,GP,F,16,U,GT3,T,4,3,home,mother,1,3,0,yes,yes,3,4,2,1
-64,GP,F,15,U,LE3,T,4,3,reputation,father,1,2,0,no,yes,4,4,0,1
-65,GP,F,16,U,LE3,T,4,3,course,mother,3,2,0,no,yes,5,4,2,1
-66,GP,M,15,U,GT3,A,4,4,reputation,mother,1,4,0,no,yes,1,3,4,2
-67,GP,F,16,U,GT3,T,3,1,course,mother,1,4,0,yes,no,4,3,4,2
-68,GP,F,15,R,LE3,T,2,2,reputation,mother,2,2,0,yes,no,4,1,2,1
-69,GP,F,15,R,LE3,T,3,1,reputation,father,2,4,0,no,no,4,4,12,5
-70,GP,M,16,U,GT3,T,3,1,reputation,father,2,4,0,yes,no,4,3,0,1
-71,GP,M,15,U,GT3,T,4,2,course,mother,1,4,0,no,no,3,3,0,1
-72,GP,F,15,R,GT3,T,1,1,reputation,mother,1,2,2,no,no,3,3,2,1
-73,GP,M,16,U,GT3,T,3,1,reputation,mother,1,1,0,no,yes,5,3,2,1
-74,GP,F,16,U,GT3,T,3,3,home,mother,1,2,0,yes,yes,4,3,54,
-75,GP,M,15,U,GT3,T,4,3,home,mother,1,2,0,yes,yes,4,3,6,3
-76,GP,M,15,U,GT3,T,4,0,course,mother,2,4,0,no,yes,3,4,8,3
-77,GP,F,16,U,GT3,T,2,2,reputation,mother,1,4,0,yes,no,5,2,0,1
-78,GP,M,17,U,GT3,T,2,1,home,mother,2,1,3,no,yes,4,5,2,1
-79,GP,F,16,U,GT3,T,3,4,course,mother,1,2,0,no,no,2,4,12,5
-80,GP,M,15,U,GT3,T,2,3,course,father,1,1,0,yes,yes,3,2,2,1
-81,GP,M,15,U,GT3,T,2,3,home,mother,1,3,0,yes,no,5,3,4,2
-82,GP,F,15,U,LE3,T,3,2,reputation,mother,1,2,0,yes,no,4,4,10,4
-83,GP,M,15,U,LE3,T,2,2,home,mother,2,2,0,yes,yes,5,3,4,2
-84,GP,F,15,U,GT3,T,1,1,home,father,1,2,0,no,yes,4,3,2,1
-85,GP,F,15,U,GT3,T,4,4,reputation,father,2,2,2,yes,no,4,4,6,3
-86,GP,F,16,U,LE3,T,2,2,course,mother,1,2,0,no,no,4,3,4,2
-87,GP,F,15,U,GT3,T,4,2,reputation,mother,1,3,0,no,yes,5,3,4,2
-88,GP,M,16,U,GT3,T,2,2,reputation,father,2,2,1,yes,yes,4,4,12,5
-89,GP,M,16,U,LE3,A,4,4,reputation,mother,1,2,0,no,no,4,1,18,5
-90,GP,F,16,U,GT3,T,3,3,home,mother,1,3,0,yes,no,4,3,0,1
-91,GP,F,15,U,GT3,T,4,3,reputation,mother,1,1,0,yes,yes,4,5,4,2
-92,GP,F,16,U,LE3,T,3,1,home,father,1,2,0,no,no,3,3,4,2
-93,GP,F,16,U,GT3,T,4,2,home,mother,2,2,0,yes,yes,5,3,0,1
-94,GP,M,15,U,LE3,T,2,2,reputation,mother,1,4,0,no,yes,4,3,6,3
-95,GP,F,15,R,GT3,T,1,1,home,mother,2,4,1,yes,yes,3,1,2,1
-96,GP,M,16,R,GT3,T,4,3,reputation,mother,2,1,0,no,yes,3,3,2,1
-97,GP,F,16,U,GT3,T,2,1,course,mother,1,2,0,yes,no,4,3,2,1
-98,GP,F,16,U,GT3,T,4,4,reputation,mother,1,1,0,no,yes,5,3,6,3
-99,GP,F,16,U,GT3,T,4,3,course,mother,1,3,0,yes,no,5,3,0,1
-100,GP,M,16,U,GT3,T,4,4,other,mother,1,1,0,yes,yes,4,5,14,5
-101,GP,M,16,U,GT3,T,4,4,other,father,1,3,0,no,yes,4,4,0,1
-102,GP,M,15,U,GT3,T,4,4,course,mother,1,1,0,no,yes,5,3,4,2
-103,GP,F,15,U,GT3,T,3,2,home,mother,2,2,0,yes,no,4,3,26,
-104,GP,M,15,U,GT3,A,3,4,course,mother,1,2,0,yes,yes,5,4,0,1
-105,GP,F,15,U,GT3,A,3,3,reputation,father,1,4,0,no,no,4,3,10,4
-106,GP,F,15,U,GT3,T,2,2,course,mother,1,4,0,yes,no,5,1,8,3
-107,GP,M,16,U,GT3,T,3,3,home,father,1,3,0,no,yes,5,3,2,1
-108,GP,M,15,R,GT3,T,4,4,home,father,4,4,0,yes,yes,1,3,6,3
-109,GP,F,16,U,LE3,T,4,4,other,mother,1,3,0,yes,yes,5,4,4,2
-110,GP,M,15,U,LE3,A,4,4,course,mother,1,1,0,no,yes,5,5,6,3
-111,GP,F,16,R,GT3,T,3,3,reputation,father,1,3,1,no,yes,4,1,0,1
-112,GP,F,16,U,GT3,T,2,2,home,mother,1,2,1,no,yes,3,1,6,3
-113,GP,M,15,U,LE3,T,4,2,course,mother,1,1,0,no,no,3,5,10,4
-114,GP,M,15,R,GT3,T,2,1,reputation,mother,1,2,0,no,yes,5,4,8,3
-115,GP,M,16,U,GT3,T,4,4,course,father,1,2,0,no,yes,5,4,2,1
-116,GP,M,15,U,GT3,T,4,4,reputation,father,2,2,0,no,yes,4,4,2,1
-117,GP,M,16,U,GT3,T,3,3,home,father,2,1,0,no,yes,5,4,0,1
-118,GP,M,17,R,GT3,T,1,3,course,father,3,2,1,no,yes,5,2,20,5
-119,GP,M,15,U,GT3,T,3,4,reputation,father,1,1,0,no,no,3,4,6,3
-120,GP,F,15,U,GT3,T,1,2,course,mother,1,2,0,no,no,3,2,2,1
-121,GP,M,15,U,GT3,T,2,2,home,father,1,4,0,yes,yes,5,5,6,3
-122,GP,F,16,U,LE3,T,2,4,course,father,2,2,0,yes,yes,4,2,2,1
-123,GP,M,16,U,GT3,T,4,4,course,mother,1,1,0,no,yes,3,4,18,5
-124,GP,F,16,U,GT3,T,2,2,home,mother,1,2,0,yes,no,5,4,0,1
-125,GP,M,15,U,GT3,T,3,4,home,father,1,1,0,no,no,5,5,0,1
-126,GP,F,15,U,LE3,A,3,4,home,mother,1,2,0,no,yes,5,3,0,1
-127,GP,F,19,U,GT3,T,0,1,course,other,1,2,3,no,no,3,4,2,1
-128,GP,M,18,R,GT3,T,2,2,reputation,mother,1,1,2,no,yes,3,3,0,1
-129,GP,M,16,R,GT3,T,4,4,course,mother,1,1,0,yes,yes,3,5,8,3
-130,GP,F,15,R,GT3,T,3,4,course,father,2,3,2,no,no,4,2,0,1
-131,GP,F,15,U,GT3,T,1,1,course,mother,3,1,0,no,yes,4,3,0,1
-132,GP,F,17,U,LE3,T,2,2,course,father,1,1,0,no,no,3,4,12,5
-133,GP,F,16,U,GT3,A,3,4,course,father,1,1,0,no,no,3,2,16,5
-134,GP,M,15,R,GT3,T,3,4,course,mother,4,2,0,no,no,5,3,0,1
-135,GP,F,15,U,GT3,T,4,4,course,mother,1,3,0,no,yes,4,3,0,1
-136,GP,M,17,R,GT3,T,3,4,course,mother,3,2,0,no,no,5,4,0,1
-137,GP,F,16,U,GT3,A,3,3,course,other,2,1,2,no,yes,4,3,0,1
-138,GP,M,16,U,LE3,T,1,1,course,mother,1,2,1,no,no,4,4,0,1
-139,GP,F,15,U,GT3,T,4,4,course,mother,2,1,0,no,yes,4,3,0,1
-140,GP,M,15,U,GT3,T,4,3,course,father,2,4,0,no,no,2,2,0,1
-141,GP,M,16,U,LE3,T,2,2,reputation,father,2,1,2,no,yes,2,3,8,3
-142,GP,F,15,U,GT3,T,4,4,course,mother,1,3,0,yes,yes,4,2,2,1
-143,GP,F,16,U,LE3,T,1,1,course,mother,1,1,0,no,no,3,4,2,1
-144,GP,M,17,U,GT3,T,2,1,home,mother,1,1,3,no,no,5,4,0,1
-145,GP,F,15,U,GT3,T,1,1,course,father,1,2,0,yes,no,4,4,0,1
-146,GP,F,15,U,GT3,T,3,2,home,father,1,2,3,no,no,3,3,0,1
-147,GP,F,15,U,GT3,T,1,2,course,mother,1,2,0,yes,no,4,3,2,1
-148,GP,M,16,U,GT3,T,4,4,course,mother,1,1,0,no,no,3,3,0,1
-149,GP,M,15,U,LE3,A,2,1,course,mother,4,1,3,no,no,4,5,0,1
-150,GP,M,18,U,LE3,T,1,1,course,mother,1,1,3,no,no,2,3,0,1
-151,GP,M,16,U,LE3,T,2,1,course,mother,1,1,1,no,yes,4,4,6,3
-152,GP,F,15,R,GT3,T,3,3,reputation,other,2,3,2,yes,yes,4,2,8,3
-153,GP,M,19,U,GT3,T,3,2,home,mother,1,1,3,no,no,4,5,0,1
-154,GP,F,17,U,GT3,T,4,4,course,mother,1,1,0,no,no,4,2,0,1
-155,GP,M,15,R,GT3,T,2,3,course,mother,1,2,0,yes,yes,4,4,2,1
-156,GP,M,17,R,LE3,T,1,2,reputation,mother,1,1,0,no,no,2,2,8,3
-157,GP,F,18,R,GT3,T,1,1,course,mother,3,1,3,no,yes,5,2,6,3
-158,GP,M,16,R,GT3,T,2,2,course,mother,3,1,0,no,no,4,2,2,1
-159,GP,M,16,U,GT3,T,3,3,course,father,1,2,1,yes,no,4,5,4,2
-160,GP,M,17,R,LE3,T,2,1,course,mother,2,1,2,no,yes,3,3,0,1
-161,GP,M,15,R,GT3,T,3,2,course,mother,2,2,2,no,no,4,4,6,3
-162,GP,M,16,U,LE3,T,1,2,course,mother,2,1,1,no,yes,4,4,0,1
-163,GP,M,17,U,GT3,T,1,3,course,father,1,1,0,no,no,5,3,2,1
-164,GP,M,17,R,LE3,T,1,1,course,mother,4,2,3,no,yes,5,3,0,1
-165,GP,M,16,U,GT3,T,3,2,course,mother,2,1,1,no,yes,4,5,16,5
-166,GP,M,16,U,GT3,T,2,2,course,father,1,2,0,no,no,4,3,4,2
-167,GP,F,16,U,GT3,T,4,2,home,father,1,2,0,yes,no,4,2,0,1
-168,GP,F,16,U,GT3,T,2,2,home,mother,1,2,0,yes,no,5,1,0,1
-169,GP,F,16,U,GT3,T,4,4,reputation,mother,1,2,0,yes,no,4,4,0,1
-170,GP,M,16,U,GT3,T,3,4,course,father,3,1,2,no,yes,3,4,0,1
-171,GP,M,16,U,GT3,T,1,0,reputation,mother,2,2,0,yes,yes,4,3,2,1
-172,GP,M,17,U,LE3,T,4,4,reputation,mother,1,2,0,yes,yes,4,4,0,1
-173,GP,F,16,U,GT3,T,1,3,home,mother,1,2,3,no,yes,4,3,0,1
-174,GP,F,16,U,LE3,T,3,3,reputation,mother,2,2,0,yes,yes,4,4,4,2
-175,GP,M,17,U,LE3,T,4,3,course,mother,2,2,0,yes,yes,4,4,4,2
-176,GP,F,16,U,GT3,T,2,2,reputation,mother,2,2,0,yes,yes,3,4,2,1
-177,GP,M,17,U,GT3,T,3,3,reputation,father,1,2,0,no,yes,4,3,4,2
-178,GP,M,16,R,GT3,T,4,2,other,mother,1,1,0,no,yes,4,3,10,4
-179,GP,M,17,U,GT3,T,4,3,course,mother,1,2,0,no,yes,5,2,4,2
-180,GP,M,16,U,GT3,T,4,3,home,mother,1,2,0,yes,yes,3,4,10,4
-181,GP,M,16,U,GT3,T,3,3,home,mother,1,2,0,yes,yes,4,2,2,1
-182,GP,F,17,U,GT3,T,2,4,reputation,father,1,2,0,no,yes,5,4,0,1
-183,GP,F,17,U,LE3,T,3,3,reputation,mother,1,2,0,no,yes,5,3,56,
-184,GP,F,16,U,GT3,T,3,2,reputation,mother,1,2,0,yes,no,1,2,14,5
-185,GP,M,17,U,GT3,T,3,3,other,mother,1,2,0,no,yes,4,3,12,5
-186,GP,M,16,U,GT3,T,1,2,other,mother,1,1,0,yes,yes,3,3,2,1
-187,GP,M,16,U,LE3,T,2,1,course,mother,1,2,0,yes,yes,4,2,0,1
-188,GP,F,17,U,GT3,A,3,3,reputation,mother,1,2,0,no,no,3,3,6,3
-189,GP,M,17,R,GT3,T,1,2,home,mother,1,2,0,no,no,3,1,4,2
-190,GP,F,16,U,GT3,T,2,3,course,mother,1,2,0,no,no,4,3,10,4
-191,GP,F,17,U,GT3,T,1,1,course,mother,1,2,0,no,yes,5,3,0,1
-192,GP,M,17,U,GT3,T,1,2,other,other,2,2,0,yes,yes,4,4,12,5
-193,GP,M,16,R,GT3,T,3,3,reputation,mother,1,1,0,no,yes,4,3,8,3
-194,GP,M,16,U,GT3,T,2,3,home,father,2,1,0,no,no,5,3,0,1
-195,GP,F,17,U,LE3,T,2,4,course,father,1,2,0,no,yes,4,3,0,1
-196,GP,M,17,U,GT3,T,4,4,home,mother,1,1,0,no,no,5,2,4,2
-197,GP,M,16,R,LE3,T,3,3,home,father,3,1,0,yes,yes,3,3,8,3
-198,GP,F,17,U,GT3,T,4,4,home,mother,2,1,1,no,no,4,2,24,
-199,GP,F,16,U,LE3,T,4,4,reputation,mother,1,2,0,yes,no,4,5,0,1
-200,GP,F,16,U,GT3,T,4,3,home,mother,1,2,0,no,yes,4,3,2,1
-201,GP,F,16,U,GT3,T,2,3,reputation,mother,1,2,0,yes,yes,4,4,6,3
-202,GP,F,17,U,GT3,T,1,1,course,mother,1,2,0,yes,no,4,4,4,2
-203,GP,F,17,R,GT3,T,2,2,reputation,mother,1,1,0,no,no,5,3,18,5
-204,GP,F,16,R,GT3,T,2,2,reputation,mother,2,4,0,yes,yes,5,3,6,3
-205,GP,F,17,U,GT3,T,3,4,home,mother,1,3,1,yes,no,4,4,28,
-206,GP,F,16,U,GT3,A,3,1,course,mother,1,2,3,yes,no,2,3,5,2
-207,GP,F,16,U,GT3,T,4,3,other,mother,1,2,0,yes,yes,1,3,10,4
-208,GP,F,16,U,GT3,T,1,1,home,mother,2,1,0,yes,no,4,3,6,3
-209,GP,F,17,R,GT3,T,4,3,reputation,mother,2,3,0,yes,yes,4,4,6,3
-210,GP,F,19,U,GT3,T,3,3,reputation,other,1,4,0,yes,yes,4,3,10,4
-211,GP,M,17,U,LE3,T,4,4,home,mother,1,2,0,yes,no,5,3,13,5
-212,GP,F,16,U,GT3,A,2,2,reputation,mother,1,2,0,yes,no,3,3,0,1
-213,GP,M,18,U,GT3,T,2,2,home,mother,1,2,1,yes,yes,4,4,15,5
-214,GP,F,17,R,LE3,T,4,4,other,mother,1,1,0,yes,no,5,2,12,5
-215,GP,F,17,U,LE3,T,3,2,reputation,mother,2,2,0,yes,no,4,4,2,1
-216,GP,F,17,U,GT3,T,4,3,reputation,mother,1,2,2,yes,no,3,4,22,
-217,GP,M,18,U,LE3,T,3,3,home,father,1,2,1,yes,no,3,2,13,5
-218,GP,F,17,U,GT3,T,2,3,home,father,2,1,0,yes,no,3,3,3,2
-219,GP,F,17,U,GT3,T,2,2,course,mother,1,3,0,yes,yes,4,3,4,2
-220,GP,F,17,R,GT3,T,2,1,reputation,mother,2,2,0,no,yes,4,2,2,1
-221,GP,F,17,U,GT3,T,1,1,reputation,mother,1,3,1,no,yes,4,3,0,1
-222,GP,F,16,U,GT3,T,2,3,other,mother,1,2,0,no,no,2,3,2,1
-223,GP,M,18,U,GT3,T,2,2,home,mother,2,2,0,yes,no,3,3,0,1
-224,GP,F,16,U,GT3,T,4,4,home,mother,1,3,0,no,yes,5,3,0,1
-225,GP,F,18,R,GT3,T,3,1,reputation,mother,1,2,1,no,yes,5,3,16,5
-226,GP,F,17,U,GT3,T,3,2,course,mother,1,2,0,no,yes,5,3,10,4
-227,GP,M,17,U,LE3,T,2,3,reputation,father,1,2,0,yes,no,5,3,2,1
-228,GP,M,18,U,LE3,T,2,1,course,mother,4,2,0,yes,yes,4,3,14,5
-229,GP,F,17,U,GT3,A,2,1,course,mother,2,3,0,no,yes,3,2,10,4
-230,GP,F,17,U,LE3,T,4,3,reputation,father,1,2,0,no,yes,3,2,14,5
-231,GP,M,17,R,GT3,T,2,2,course,father,2,2,0,yes,yes,4,5,4,2
-232,GP,M,17,U,GT3,T,4,4,reputation,mother,1,2,0,no,yes,4,5,14,5
-233,GP,M,16,U,GT3,T,4,4,reputation,father,1,2,0,yes,yes,4,2,2,1
-234,GP,M,16,U,LE3,T,1,1,home,mother,2,2,0,yes,no,3,4,18,5
-235,GP,M,16,U,GT3,T,3,2,reputation,mother,2,3,0,no,yes,5,3,10,4
-236,GP,M,17,U,LE3,T,2,2,home,father,1,2,0,yes,yes,4,4,4,2
-237,GP,F,16,U,GT3,T,2,1,home,mother,1,1,0,no,no,4,5,20,5
-238,GP,F,17,R,GT3,T,2,1,course,mother,3,2,0,no,yes,2,1,2,1
-239,GP,M,18,U,GT3,T,2,2,reputation,father,1,2,1,no,no,5,5,0,1
-240,GP,M,17,U,LE3,T,4,3,course,mother,2,2,0,no,yes,2,5,14,5
-241,GP,M,17,R,LE3,A,4,4,course,mother,2,2,0,yes,no,3,3,2,1
-242,GP,M,16,U,LE3,T,4,3,course,mother,1,1,0,no,yes,5,4,0,1
-243,GP,M,16,U,GT3,T,4,4,course,mother,1,1,0,no,yes,5,3,0,1
-244,GP,F,18,U,GT3,T,2,1,course,other,2,3,0,yes,no,4,4,0,1
-245,GP,M,16,U,GT3,T,2,1,course,mother,3,1,0,no,no,4,3,6,3
-246,GP,M,17,U,GT3,T,2,3,course,father,2,1,0,no,no,5,2,4,2
-247,GP,M,22,U,GT3,T,3,1,other,mother,1,1,3,no,no,5,4,16,5
-248,GP,M,18,R,LE3,T,3,3,course,mother,1,2,1,no,no,4,3,8,3
-249,GP,M,16,U,GT3,T,0,2,other,mother,1,1,0,yes,no,4,3,0,1
-250,GP,M,18,U,GT3,T,3,2,course,mother,2,1,1,no,no,4,4,0,1
-251,GP,M,16,U,GT3,T,3,3,reputation,other,3,2,0,no,no,5,3,6,3
-252,GP,M,18,U,GT3,T,2,1,other,mother,1,1,1,no,no,3,2,4,2
-253,GP,M,16,R,GT3,T,2,1,course,mother,2,1,0,no,yes,3,3,0,1
-254,GP,M,17,R,GT3,T,2,1,course,mother,1,1,0,no,no,4,4,0,1
-255,GP,M,17,U,LE3,T,1,1,course,mother,2,1,1,no,yes,4,4,2,1
-256,GP,F,17,U,LE3,T,4,2,reputation,mother,1,4,0,yes,yes,4,2,6,3
-257,GP,M,19,U,LE3,A,4,3,reputation,mother,1,2,0,no,no,4,3,12,5
-258,GP,M,18,U,GT3,T,2,1,home,mother,1,2,0,no,yes,5,2,8,3
-259,GP,F,17,U,LE3,T,2,2,course,father,1,4,0,yes,yes,3,4,0,1
-260,GP,F,18,U,GT3,T,4,3,home,father,1,2,0,yes,no,3,1,21,
-261,GP,M,18,U,GT3,T,4,3,course,mother,1,2,0,yes,no,4,3,2,1
-262,GP,M,18,R,GT3,T,3,2,course,mother,1,3,0,no,yes,5,3,1,1
-263,GP,F,17,U,GT3,T,3,3,home,mother,1,3,0,no,yes,3,2,4,2
-264,GP,F,18,U,GT3,T,2,2,home,mother,1,3,0,yes,yes,4,3,0,1
-265,GP,M,18,R,LE3,A,3,4,reputation,mother,2,2,0,yes,yes,4,2,13,5
-266,GP,M,17,U,GT3,T,3,1,other,mother,1,2,0,yes,yes,5,4,2,1
-267,GP,F,18,R,GT3,T,4,4,reputation,mother,2,2,0,yes,yes,4,3,8,3
-268,GP,M,18,U,GT3,T,4,2,reputation,father,1,2,0,yes,yes,5,4,10,4
-269,GP,F,18,R,GT3,T,2,1,reputation,mother,2,2,0,no,no,4,3,0,1
-270,GP,F,19,U,GT3,T,3,3,home,other,1,2,2,yes,yes,4,3,15,5
-271,GP,F,18,U,GT3,T,2,3,reputation,father,1,4,0,yes,yes,4,5,4,2
-272,GP,F,18,U,LE3,T,1,1,home,mother,2,2,0,yes,no,4,4,2,1
-273,GP,M,17,R,GT3,T,1,2,home,mother,1,2,0,yes,yes,3,5,2,1
-274,GP,F,17,U,GT3,T,2,4,reputation,mother,2,2,0,yes,no,4,3,2,1
-275,GP,F,17,U,LE3,T,2,2,course,mother,2,2,0,yes,no,4,4,6,3
-276,GP,F,18,R,GT3,A,3,2,home,mother,2,2,0,no,no,4,1,75,
-277,GP,M,18,U,GT3,T,4,4,home,mother,2,1,0,yes,yes,3,2,22,
-278,GP,F,18,U,GT3,T,4,4,reputation,father,1,2,1,no,yes,2,4,15,5
-279,GP,M,18,U,LE3,T,4,3,course,mother,2,1,0,yes,yes,4,2,8,3
-280,GP,M,17,U,LE3,A,4,1,home,mother,2,1,0,yes,yes,4,5,30,
-281,GP,M,17,U,LE3,A,3,2,home,mother,1,1,1,no,no,4,4,19,5
-282,GP,F,18,R,LE3,T,1,1,reputation,mother,2,4,0,yes,yes,5,2,1,1
-283,GP,F,18,U,GT3,T,1,1,home,mother,2,2,0,no,yes,5,4,4,2
-284,GP,F,17,U,GT3,T,2,2,course,mother,1,2,0,no,no,5,4,4,2
-285,GP,M,17,U,GT3,T,1,1,reputation,father,1,2,0,yes,no,4,3,2,1
-286,GP,F,18,U,GT3,T,2,2,other,mother,1,3,0,yes,no,4,3,5,2
-287,GP,F,17,U,GT3,T,1,1,reputation,mother,1,3,0,yes,no,4,3,6,3
-288,GP,M,18,U,GT3,T,2,1,reputation,mother,1,3,0,yes,yes,4,2,6,3
-289,GP,M,18,U,LE3,A,4,4,reputation,mother,1,2,0,yes,yes,5,4,9,4
-290,GP,M,18,U,GT3,T,4,2,home,mother,1,2,0,yes,yes,4,3,11,5
-291,GP,F,17,U,GT3,T,4,3,reputation,mother,1,3,0,yes,no,4,2,0,1
-292,GP,F,18,U,LE3,T,2,1,reputation,mother,1,2,1,no,no,5,4,12,5
-293,GP,F,17,R,LE3,T,3,1,reputation,mother,2,4,0,yes,no,3,1,6,3
-294,GP,M,18,R,LE3,T,3,2,reputation,mother,2,3,0,yes,yes,5,4,8,3
-295,GP,M,17,U,GT3,T,3,3,home,mother,1,1,0,yes,no,4,4,4,2
-296,GP,F,19,U,GT3,T,4,4,reputation,other,2,2,0,yes,yes,2,3,0,1
-297,GP,F,18,U,LE3,T,4,3,home,other,2,2,0,yes,no,4,4,10,4
-298,GP,F,18,U,GT3,T,4,3,reputation,father,1,4,0,yes,no,4,3,0,1
-299,GP,M,18,U,LE3,T,4,4,home,mother,1,1,0,yes,no,1,4,5,2
-300,GP,F,18,U,LE3,A,4,4,home,mother,1,2,0,no,no,4,2,14,5
-301,GP,M,17,U,LE3,T,4,4,home,father,2,1,0,yes,no,4,1,0,1
-302,GP,F,17,U,GT3,T,4,2,reputation,mother,2,3,0,yes,no,4,3,0,1
-303,GP,F,17,U,GT3,T,3,2,reputation,father,1,4,0,yes,yes,5,2,0,1
-304,GP,M,19,U,GT3,T,3,3,home,other,1,2,1,no,yes,4,4,20,5
-305,GP,F,18,U,GT3,T,2,4,reputation,other,1,2,1,yes,yes,4,4,8,3
-306,GP,M,20,U,GT3,A,3,2,course,other,1,1,0,no,yes,5,5,0,1
-307,GP,M,19,U,GT3,T,4,4,reputation,other,2,1,1,yes,no,4,3,38,
-308,GP,M,19,R,GT3,T,3,3,reputation,father,1,2,1,no,yes,4,5,0,1
-309,GP,F,19,U,LE3,T,1,1,reputation,other,1,2,1,no,yes,4,4,18,5
-310,GP,F,19,U,LE3,T,1,2,home,other,1,2,1,no,yes,4,2,0,1
-311,GP,F,19,U,GT3,T,2,1,other,other,3,2,0,no,no,3,4,20,5
-312,GP,M,19,U,GT3,T,1,2,course,other,1,2,1,no,no,4,5,3,2
-313,GP,F,19,U,LE3,T,3,2,reputation,other,2,2,1,yes,no,4,2,22,
-314,GP,F,19,U,GT3,T,1,1,home,other,1,3,2,no,no,4,1,14,5
-315,GP,F,19,R,GT3,T,2,3,reputation,other,1,3,1,no,no,4,1,40,
-316,GP,F,18,U,GT3,T,2,1,course,mother,2,2,0,yes,yes,5,3,0,1
-317,GP,F,18,U,GT3,T,4,3,course,mother,1,3,0,yes,yes,4,3,9,4
-318,GP,F,17,R,GT3,T,3,4,course,father,1,3,0,yes,yes,4,3,0,1
-319,GP,F,18,U,GT3,T,4,4,course,mother,1,2,0,yes,no,4,4,2,1
-320,GP,F,17,U,GT3,A,4,3,course,mother,1,2,0,yes,no,5,2,23,
-321,GP,F,17,U,GT3,T,2,2,course,mother,1,2,0,no,no,4,2,12,5
-322,GP,F,17,R,LE3,T,2,2,course,mother,1,3,0,yes,yes,3,3,3,2
-323,GP,F,17,U,GT3,T,3,1,course,father,1,3,0,no,no,3,4,1,1
-324,GP,F,17,U,LE3,T,0,2,home,father,2,3,0,no,no,3,3,0,1
-325,GP,M,18,U,GT3,T,4,4,course,mother,1,3,0,no,yes,4,3,3,2
-326,GP,M,17,U,GT3,T,3,3,reputation,mother,1,1,0,no,yes,4,3,3,2
-327,GP,M,17,R,GT3,T,2,2,course,mother,4,1,0,no,no,4,4,8,3
-328,GP,F,17,U,GT3,T,4,4,course,mother,1,3,0,yes,yes,5,4,7,3
-329,GP,F,17,U,GT3,T,4,4,course,mother,2,3,0,yes,no,4,3,4,2
-330,GP,M,18,U,LE3,T,2,2,course,mother,1,4,0,no,yes,4,5,2,1
-331,GP,F,17,R,GT3,T,2,4,course,father,1,3,0,no,no,4,4,7,3
-332,GP,F,18,U,GT3,T,3,3,home,mother,1,2,0,no,yes,5,3,0,1
-333,GP,F,18,U,LE3,T,2,2,home,other,1,2,0,no,yes,4,3,0,1
-334,GP,F,18,R,GT3,T,2,2,course,mother,2,4,0,no,yes,4,4,0,1
-335,GP,F,17,U,GT3,T,3,4,course,mother,1,3,0,no,no,4,4,16,5
-336,GP,F,19,R,GT3,A,3,1,home,other,1,3,1,yes,no,5,4,12,5
-337,GP,F,17,U,GT3,T,3,2,home,mother,1,2,0,yes,no,4,3,0,1
-338,GP,F,18,U,LE3,T,3,3,home,mother,1,4,0,no,no,5,3,7,3
-339,GP,F,17,R,GT3,A,3,2,home,mother,1,2,0,yes,no,4,3,4,2
-340,GP,F,19,U,GT3,T,2,1,home,other,1,3,1,yes,yes,4,3,4,2
-341,GP,M,18,U,GT3,T,4,4,home,father,1,2,1,no,yes,4,3,0,1
-342,GP,M,18,U,LE3,T,3,4,home,mother,1,2,0,no,yes,4,3,11,5
-343,GP,F,17,U,GT3,A,2,2,home,father,1,2,1,no,no,3,3,0,1
-344,GP,F,18,U,GT3,T,2,3,course,mother,1,3,0,no,no,4,3,4,2
-345,GP,F,18,U,GT3,T,3,2,other,mother,1,3,0,no,no,5,4,7,3
-346,GP,M,18,R,GT3,T,4,3,course,mother,1,3,0,no,no,5,3,9,4
-347,GP,M,18,U,GT3,T,4,3,course,mother,1,3,0,yes,no,5,4,0,1
-348,GP,F,17,U,GT3,T,4,3,reputation,mother,1,3,0,yes,yes,4,4,0,1
-349,MS,M,18,R,GT3,T,3,2,course,mother,2,1,1,no,no,2,5,10,4
-350,MS,M,19,R,GT3,T,1,1,home,other,3,2,3,no,no,5,4,8,3
-351,MS,M,17,U,GT3,T,3,3,course,mother,2,2,0,yes,no,4,5,2,1
-352,MS,M,18,U,LE3,T,1,3,course,mother,1,1,1,no,no,4,3,7,3
-353,MS,M,19,R,GT3,T,1,1,home,other,3,1,1,no,no,4,4,4,2
-354,MS,M,17,R,GT3,T,4,3,home,mother,2,2,0,yes,yes,4,5,4,2
-355,MS,F,18,U,GT3,T,3,3,course,father,1,2,0,no,no,5,3,0,1
-356,MS,F,17,R,GT3,T,4,4,other,father,2,2,0,yes,yes,4,3,4,2
-357,MS,F,17,U,LE3,A,3,2,reputation,mother,2,2,0,no,no,1,2,2,1
-358,MS,M,18,U,LE3,T,1,1,home,father,2,1,0,no,no,3,3,4,2
-359,MS,F,18,U,LE3,T,1,1,course,father,2,3,0,no,no,5,3,0,1
-360,MS,F,18,R,LE3,A,1,4,course,mother,3,2,0,no,no,4,3,0,1
-361,MS,M,18,R,LE3,T,1,1,other,mother,2,2,1,no,yes,4,4,2,1
-362,MS,F,18,U,GT3,T,3,3,other,mother,2,2,0,no,no,4,3,0,1
-363,MS,F,17,U,LE3,T,4,4,course,mother,1,2,0,yes,yes,2,3,0,1
-364,MS,F,17,R,GT3,T,1,2,course,father,2,2,0,no,no,3,2,0,1
-365,MS,M,18,R,GT3,T,1,3,course,mother,2,2,0,yes,no,3,3,4,2
-366,MS,M,18,U,LE3,T,4,4,other,mother,2,3,0,yes,no,4,2,0,1
-367,MS,F,17,R,GT3,T,1,1,reputation,mother,3,1,1,yes,no,5,2,0,1
-368,MS,F,18,U,GT3,T,2,3,course,father,2,1,0,yes,no,5,2,0,1
-369,MS,F,18,R,GT3,T,4,4,other,father,3,2,0,yes,no,3,2,10,4
-370,MS,F,19,U,LE3,T,3,2,home,other,2,2,2,no,yes,3,2,4,2
-371,MS,M,18,R,LE3,T,1,2,other,father,3,1,0,yes,yes,4,3,3,2
-372,MS,F,17,U,GT3,T,2,2,home,mother,1,3,0,no,yes,3,4,8,3
-373,MS,F,17,R,GT3,T,1,2,course,mother,1,1,0,no,yes,3,5,14,5
-374,MS,F,18,R,LE3,T,4,4,reputation,mother,2,3,0,no,no,5,4,0,1
-375,MS,F,18,R,GT3,T,1,1,home,mother,4,3,0,no,no,4,3,2,1
-376,MS,F,20,U,GT3,T,4,2,course,other,2,3,2,yes,no,5,4,4,2
-377,MS,F,18,R,LE3,T,4,4,course,mother,1,2,0,yes,yes,5,4,4,2
-378,MS,F,18,U,GT3,T,3,3,home,mother,1,2,0,yes,no,4,1,0,1
-379,MS,F,17,R,GT3,T,3,1,reputation,mother,1,2,0,yes,yes,4,5,17,5
-380,MS,M,18,U,GT3,T,4,4,home,father,1,2,0,yes,yes,3,2,4,2
-381,MS,M,18,R,GT3,T,2,1,other,mother,2,1,0,no,yes,4,4,5,2
-382,MS,M,17,U,GT3,T,2,3,home,father,2,2,0,no,yes,4,4,2,1
-383,MS,M,19,R,GT3,T,1,1,other,mother,2,1,1,no,no,4,3,0,1
-384,MS,M,18,R,GT3,T,4,2,home,father,2,1,1,yes,no,5,4,14,5
-385,MS,F,18,R,GT3,T,2,2,other,mother,2,3,0,yes,no,5,3,2,1
-386,MS,F,18,R,GT3,T,4,4,reputation,mother,3,1,0,yes,yes,4,4,7,3
-387,MS,F,19,R,GT3,T,2,3,course,mother,1,3,1,no,yes,5,4,0,1
-388,MS,F,18,U,LE3,T,3,1,course,mother,1,2,0,yes,no,4,3,0,1
-389,MS,F,18,U,GT3,T,1,1,course,mother,2,2,1,no,yes,1,1,0,1
-390,MS,M,20,U,LE3,A,2,2,course,other,1,2,2,yes,no,5,5,11,5
-391,MS,M,17,U,LE3,T,3,1,course,mother,2,1,0,no,no,2,4,3,2
-392,MS,M,21,R,GT3,T,1,1,course,other,1,1,3,no,no,5,5,3,2
-393,MS,M,18,R,LE3,T,3,2,course,mother,3,1,0,no,no,4,4,0,1
-394,MS,M,19,U,LE3,T,1,1,course,father,1,1,0,no,no,3,2,5,2
+school	sex	age	address	famsize	Pstatus	Medu	Fedu	reason	guardian	traveltime	studytime	failures	paid	activities	famrel	freetime	absences
+GP	F	18	U	GT3	A	4	4	course	mother	2	2	0	no	no	4	3	6
+GP	F	17	U	GT3	T	1	1	course	father	1	2	0	no	no	5	3	4
+GP	F	15	U	LE3	T	1	1	other	mother	1	2	3	yes	no	4	3	10
+GP	F	15	U	GT3	T	4	2	home	mother	1	3	0	yes	yes	3	2	2
+GP	F	16	U	GT3	T	3	3	home	father	1	2	0	yes	no	4	3	4
+GP	M	16	U	LE3	T	4	3	reputation	mother	1	2	0	yes	yes	5	4	10
+GP	M	16	U	LE3	T	2	2	home	mother	1	2	0	no	no	4	4	0
+GP	F	17	U	GT3	A	4	4	home	mother	2	2	0	no	no	4	1	6
+GP	M	15	U	LE3	A	3	2	home	mother	1	2	0	yes	no	4	2	0
+GP	M	15	U	GT3	T	3	4	home	mother	1	2	0	yes	yes	5	5	0
+GP	F	15	U	GT3	T	4	4	reputation	mother	1	2	0	yes	no	3	3	0
+GP	F	15	U	GT3	T	2	1	reputation	father	3	3	0	no	yes	5	2	4
+GP	M	15	U	LE3	T	4	4	course	father	1	1	0	yes	yes	4	3	2
+GP	M	15	U	GT3	T	4	3	course	mother	2	2	0	yes	no	5	4	2
+GP	M	15	U	GT3	A	2	2	home	other	1	3	0	no	no	4	5	0
+GP	F	16	U	GT3	T	4	4	home	mother	1	1	0	no	no	4	4	4
+GP	F	16	U	GT3	T	4	4	reputation	mother	1	3	0	yes	yes	3	2	6
+GP	F	16	U	GT3	T	3	3	reputation	mother	3	2	0	no	yes	5	3	4
+GP	M	17	U	GT3	T	3	2	course	mother	1	1	3	no	yes	5	5	16
+GP	M	16	U	LE3	T	4	3	home	father	1	1	0	yes	yes	3	1	4
+GP	M	15	U	GT3	T	4	3	reputation	mother	1	2	0	no	no	4	4	0
+GP	M	15	U	GT3	T	4	4	other	father	1	1	0	yes	no	5	4	0
+GP	M	16	U	LE3	T	4	2	course	mother	1	2	0	no	yes	4	5	2
+GP	M	16	U	LE3	T	2	2	reputation	mother	2	2	0	no	yes	5	4	0
+GP	F	15	R	GT3	T	2	4	course	mother	1	3	0	yes	yes	4	3	2
+GP	F	16	U	GT3	T	2	2	home	mother	1	1	2	yes	no	1	2	14
+GP	M	15	U	GT3	T	2	2	home	mother	1	1	0	yes	no	4	2	2
+GP	M	15	U	GT3	T	4	2	other	mother	1	1	0	yes	no	2	2	4
+GP	M	16	U	LE3	A	3	4	home	mother	1	2	0	no	yes	5	3	4
+GP	M	16	U	GT3	T	4	4	home	mother	1	2	0	yes	yes	4	4	16
+GP	M	15	U	GT3	T	4	4	home	mother	1	2	0	yes	no	5	4	0
+GP	M	15	U	GT3	T	4	4	reputation	mother	2	2	W	no	yes	4	3	0
+GP	M	15	R	GT3	T	4	3	course	mother	1	2	0	no	yes	4	5	0
+GP	M	15	U	LE3	T	3	3	course	mother	1	2	0	no	yes	5	3	0
+GP	M	16	U	GT3	T	3	2	home	mother	1	1	0	yes	no	5	4	0
+GP	F	15	U	GT3	T	2	3	other	father	2	1	0	no	yes	3	5	0
+GP	M	15	U	LE3	T	4	3	home	mother	1	3	0	no	yes	5	4	2
+GP	M	16	R	GT3	A	4	4	reputation	mother	2	3	0	no	yes	2	4	7
+GP	F	15	R	GT3	T	3	4	course	mother	1	3	0	yes	yes	4	3	2
+GP	F	15	R	GT3	T	2	2	reputation	mother	1	1	0	yes	yes	4	3	8
+GP	F	16	U	LE3	T	2	2	home	mother	2	2	1	no	yes	3	3	25
+GP	M	15	U	LE3	T	4	4	home	other	1	1	0	no	no	5	4	8
+GP	M	15	U	GT3	T	4	4	course	father	1	2	0	no	yes	4	3	2
+GP	M	15	U	GT3	T	2	2	course	father	1	1	0	no	no	5	4	0
+GP	F	16	U	LE3	T	2	2	course	father	2	2	1	no	yes	4	3	14
+GP	F	15	U	LE3	A	4	3	course	mother	1	2	0	yes	yes	5	2	8
+GP	F	16	U	LE3	A	3	3	home	mother	1	2	0	no	no	2	3	12
+GP	M	16	U	GT3	T	4	3	reputation	mother	1	4	0	no	yes	4	2	4
+GP	M	15	U	GT3	T	4	2	home	mother	1	2	0	yes	no	4	3	2
+GP	F	15	U	GT3	T	4	4	other	father	1	2	1	no	yes	4	4	2
+GP	F	16	U	LE3	T	2	2	course	mother	3	2	0	yes	no	4	3	2
+GP	F	15	U	LE3	T	4	2	other	mother	1	2	0	yes	no	4	3	2
+GP	M	15	U	LE3	A	4	2	other	father	2	1	1	no	no	5	5	6
+GP	F	15	U	GT3	T	4	4	course	mother	1	1	0	yes	no	3	3	0
+GP	F	15	U	LE3	A	3	3	other	mother	1	1	0	yes	no	5	3	6
+GP	F	16	U	GT3	A	2	1	other	mother	1	2	0	yes	yes	5	3	8
+GP	F	15	U	GT3	A	4	3	reputation	mother	1	2	0	yes	yes	4	3	0
+GP	M	15	U	GT3	T	4	4	reputation	mother	1	2	0	no	yes	3	2	4
+GP	M	15	U	LE3	T	1	2	home	father	1	2	0	no	yes	4	3	2
+GP	F	16	U	GT3	T	4	2	course	mother	1	2	0	no	no	4	2	2
+GP	F	16	R	GT3	T	4	4	other	mother	1	2	0	no	yes	2	4	6
+GP	F	16	U	GT3	T	1	1	course	father	4	1	0	no	yes	5	5	6
+GP	F	16	U	LE3	T	1	2	reputation	father	1	2	0	no	yes	4	4	4
+GP	F	16	U	GT3	T	4	3	home	mother	1	3	0	yes	yes	3	4	2
+GP	F	15	U	LE3	T	4	3	reputation	father	1	2	0	no	yes	4	4	0
+GP	F	16	U	LE3	T	4	3	course	mother	3	2	0	no	yes	5	4	2
+GP	M	15	U	GT3	A	4	4	reputation	mother	1	4	0	no	yes	1	3	4
+GP	F	16	U	GT3	T	3	1	course	mother	1	4	0	yes	no	4	3	4
+GP	F	15	R	LE3	T	2	2	reputation	mother	2	2	0	yes	no	4	1	2
+GP	F	15	R	LE3	T	3	1	reputation	father	2	4	0	no	no	4	4	12
+GP	M	16	U	GT3	T	3	1	reputation	father	2	4	0	yes	no	4	3	0
+GP	M	15	U	GT3	T	4	2	course	mother	1	4	0	no	no	3	3	0
+GP	F	15	R	GT3	T	1	1	reputation	mother	1	2	2	no	no	3	3	2
+GP	M	16	U	GT3	T	3	1	reputation	mother	1	1	0	no	yes	5	3	2
+GP	F	16	U	GT3	T	3	3	home	mother	1	2	0	yes	yes	4	3	54
+GP	M	15	U	GT3	T	4	3	home	mother	1	2	0	yes	yes	4	3	6
+GP	M	15	U	GT3	T	4	0	course	mother	2	4	0	no	yes	3	4	8
+GP	F	16	U	GT3	T	2	2	reputation	mother	1	4	0	yes	no	5	2	0
+GP	M	17	U	GT3	T	2	1	home	mother	2	1	3	no	yes	4	5	2
+GP	F	16	U	GT3	T	3	4	course	mother	1	2	0	no	no	2	4	12
+GP	M	15	U	GT3	T	2	3	course	father	1	1	0	yes	yes	3	2	2
+GP	M	15	U	GT3	T	2	3	home	mother	1	3	0	yes	no	5	3	4
+GP	F	15	U	LE3	T	3	2	reputation	mother	1	2	0	yes	no	4	4	10
+GP	M	15	U	LE3	T	2	2	home	mother	2	2	0	yes	yes	5	3	4
+GP	F	15	U	GT3	T	1	1	home	father	1	2	0	no	yes	4	3	2
+GP	F	15	U	GT3	T	4	4	reputation	father	2	2	2	yes	no	4	4	6
+GP	F	16	U	LE3	T	2	2	course	mother	1	2	0	no	no	4	3	4
+GP	F	15	U	GT3	T	4	2	reputation	mother	1	3	0	no	yes	5	3	4
+GP	M	16	U	GT3	T	2	2	reputation	father	2	2	1	yes	yes	4	4	12
+GP	M	16	U	LE3	A	4	4	reputation	mother	1	2	0	no	no	4	1	18
+GP	F	16	U	GT3	T	3	3	home	mother	1	3	0	yes	no	4	3	0
+GP	F	15	U	GT3	T	4	3	reputation	mother	1	1	0	yes	yes	4	5	4
+GP	F	16	U	LE3	T	3	1	home	father	1	2	0	no	no	3	3	4
+GP	F	16	U	GT3	T	4	2	home	mother	2	2	0	yes	yes	5	3	0
+GP	M	15	U	LE3	T	2	2	reputation	mother	1	4	0	no	yes	4	3	6
+GP	F	15	R	GT3	T	1	1	home	mother	2	4	1	yes	yes	3	1	2
+GP	M	16	R	GT3	T	4	3	reputation	mother	2	1	0	no	yes	3	3	2
+GP	F	16	U	GT3	T	2	1	course	mother	1	2	0	yes	no	4	3	2
+GP	F	16	U	GT3	T	4	4	reputation	mother	1	1	0	no	yes	5	3	6
+GP	F	16	U	GT3	T	4	3	course	mother	1	3	0	yes	no	5	3	0
+GP	M	16	U	GT3	T	4	4	other	mother	1	1	0	yes	yes	4	5	14
+GP	M	16	U	GT3	T	4	4	other	father	1	3	0	no	yes	4	4	0
+GP	M	15	U	GT3	T	4	4	course	mother	1	1	0	no	yes	5	3	4
+GP	F	15	U	GT3	T	3	2	home	mother	2	2	0	yes	no	4	3	26
+GP	M	15	U	GT3	A	3	4	course	mother	1	2	0	yes	yes	5	4	0
+GP	F	15	U	GT3	A	3	3	reputation	father	1	4	0	no	no	4	3	10
+GP	F	15	U	GT3	T	2	2	course	mother	1	4	0	yes	no	5	1	8
+GP	M	16	U	GT3	T	3	3	home	father	1	3	0	no	yes	5	3	2
+GP	M	15	R	GT3	T	4	4	home	father	4	4	0	yes	yes	1	3	6
+GP	F	16	U	LE3	T	4	4	other	mother	1	3	0	yes	yes	5	4	4
+GP	M	15	U	LE3	A	4	4	course	mother	1	1	0	no	yes	5	5	6
+GP	F	16	R	GT3	T	3	3	reputation	father	1	3	1	no	yes	4	1	0
+GP	F	16	U	GT3	T	2	2	home	mother	1	2	1	no	yes	3	1	6
+GP	M	15	U	LE3	T	4	2	course	mother	1	1	0	no	no	3	5	10
+GP	M	15	R	GT3	T	2	1	reputation	mother	1	2	0	no	yes	5	4	8
+GP	M	16	U	GT3	T	4	4	course	father	1	2	0	no	yes	5	4	2
+GP	M	15	U	GT3	T	4	4	reputation	father	2	2	0	no	yes	4	4	2
+GP	M	16	U	GT3	T	3	3	home	father	2	1	0	no	yes	5	4	0
+GP	M	17	R	GT3	T	1	3	course	father	3	2	1	no	yes	5	2	20
+GP	M	15	U	GT3	T	3	4	reputation	father	1	1	0	no	no	3	4	6
+GP	F	15	U	GT3	T	1	2	course	mother	1	2	0	no	no	3	2	2
+GP	M	15	U	GT3	T	2	2	home	father	1	4	0	yes	yes	5	5	6
+GP	F	16	U	LE3	T	2	4	course	father	2	2	0	yes	yes	4	2	2
+GP	M	16	U	GT3	T	4	4	course	mother	1	1	0	no	yes	3	4	18
+GP	F	16	U	GT3	T	2	2	home	mother	1	2	0	yes	no	5	4	0
+GP	M	15	U	GT3	T	3	4	home	father	1	1	0	no	no	5	5	0
+GP	F	15	U	LE3	A	3	4	home	mother	1	2	0	no	yes	5	3	0
+GP	F	19	U	GT3	T	0	1	course	other	1	2	3	no	no	3	4	2
+GP	M	18	R	GT3	T	2	2	reputation	mother	1	1	2	no	yes	3	3	0
+GP	M	16	R	GT3	T	4	4	course	mother	1	1	0	yes	yes	3	5	8
+GP	F	15	R	GT3	T	3	4	course	father	2	3	2	no	no	4	2	0
+GP	F	15	U	GT3	T	1	1	course	mother	3	1	0	no	yes	4	3	0
+GP	F	17	U	LE3	T	2	2	course	father	1	1	0	no	no	3	4	12
+GP	F	16	U	GT3	A	3	4	course	father	1	1	0	no	no	3	2	16
+GP	M	15	R	GT3	T	3	4	course	mother	4	2	0	no	no	5	3	0
+GP	F	15	U	GT3	T	4	4	course	mother	1	3	0	no	yes	4	3	0
+GP	M	17	R	GT3	T	3	4	course	mother	3	2	0	no	no	5	4	0
+GP	F	16	U	GT3	A	3	3	course	other	2	1	2	no	yes	4	3	0
+GP	M	16	U	LE3	T	1	1	course	mother	1	2	1	no	no	4	4	0
+GP	F	15	U	GT3	T	4	4	course	mother	2	1	0	no	yes	4	3	0
+GP	M	15	U	GT3	T	4	3	course	father	2	4	0	no	no	2	2	0
+GP	M	16	U	LE3	T	2	2	reputation	father	2	1	2	no	yes	2	3	8
+GP	F	15	U	GT3	T	4	4	course	mother	1	3	0	yes	yes	4	2	2
+GP	F	16	U	LE3	T	1	1	course	mother	1	1	0	no	no	3	4	2
+GP	M	17	U	GT3	T	2	1	home	mother	1	1	3	no	no	5	4	0
+GP	F	15	U	GT3	T	1	1	course	father	1	2	0	yes	no	4	4	0
+GP	F	15	U	GT3	T	3	2	home	father	1	2	3	no	no	3	3	0
+GP	F	15	U	GT3	T	1	2	course	mother	1	2	0	yes	no	4	3	2
+GP	M	16	U	GT3	T	4	4	course	mother	1	1	0	no	no	3	3	0
+GP	M	15	U	LE3	A	2	1	course	mother	4	1	3	no	no	4	5	0
+GP	M	18	U	LE3	T	1	1	course	mother	1	1	3	no	no	2	3	0
+GP	M	16	U	LE3	T	2	1	course	mother	1	1	1	no	yes	4	4	6
+GP	F	15	R	GT3	T	3	3	reputation	other	2	3	2	yes	yes	4	2	8
+GP	M	19	U	GT3	T	3	2	home	mother	1	1	3	no	no	4	5	0
+GP	F	17	U	GT3	T	4	4	course	mother	1	1	0	no	no	4	2	0
+GP	M	15	R	GT3	T	2	3	course	mother	1	2	0	yes	yes	4	4	2
+GP	M	17	R	LE3	T	1	2	reputation	mother	1	1	0	no	no	2	2	8
+GP	F	18	R	GT3	T	1	1	course	mother	3	1	3	no	yes	5	2	6
+GP	M	16	R	GT3	T	2	2	course	mother	3	1	0	no	no	4	2	2
+GP	M	16	U	GT3	T	3	3	course	father	1	2	1	yes	no	4	5	4
+GP	M	17	R	LE3	T	2	1	course	mother	2	1	2	no	yes	3	3	0
+GP	M	15	R	GT3	T	3	2	course	mother	2	2	2	no	no	4	4	6
+GP	M	16	U	LE3	T	1	2	course	mother	2	1	1	no	yes	4	4	0
+GP	M	17	U	GT3	T	1	3	course	father	1	1	0	no	no	5	3	2
+GP	M	17	R	LE3	T	1	1	course	mother	4	2	3	no	yes	5	3	0
+GP	M	16	U	GT3	T	3	2	course	mother	2	1	1	no	yes	4	5	16
+GP	M	16	U	GT3	T	2	2	course	father	1	2	0	no	no	4	3	4
+GP	F	16	U	GT3	T	4	2	home	father	1	2	0	yes	no	4	2	0
+GP	F	16	U	GT3	T	2	2	home	mother	1	2	0	yes	no	5	1	0
+GP	F	16	U	GT3	T	4	4	reputation	mother	1	2	0	yes	no	4	4	0
+GP	M	16	U	GT3	T	3	4	course	father	3	1	2	no	yes	3	4	0
+GP	M	16	U	GT3	T	1	0	reputation	mother	2	2	0	yes	yes	4	3	2
+GP	M	17	U	LE3	T	4	4	reputation	mother	1	2	0	yes	yes	4	4	0
+GP	F	16	U	GT3	T	1	3	home	mother	1	2	3	no	yes	4	3	0
+GP	F	16	U	LE3	T	3	3	reputation	mother	2	2	0	yes	yes	4	4	4
+GP	M	17	U	LE3	T	4	3	course	mother	2	2	0	yes	yes	4	4	4
+GP	F	16	U	GT3	T	2	2	reputation	mother	2	2	0	yes	yes	3	4	2
+GP	M	17	U	GT3	T	3	3	reputation	father	1	2	0	no	yes	4	3	4
+GP	M	16	R	GT3	T	4	2	other	mother	1	1	0	no	yes	4	3	10
+GP	M	17	U	GT3	T	4	3	course	mother	1	2	0	no	yes	5	2	4
+GP	M	16	U	GT3	T	4	3	home	mother	1	2	0	yes	yes	3	4	10
+GP	M	16	U	GT3	T	3	3	home	mother	1	2	0	yes	yes	4	2	2
+GP	F	17	U	GT3	T	2	4	reputation	father	1	2	0	no	yes	5	4	0
+GP	F	17	U	LE3	T	3	3	reputation	mother	1	2	0	no	yes	5	3	56
+GP	F	16	U	GT3	T	3	2	reputation	mother	1	2	0	yes	no	1	2	14
+GP	M	17	U	GT3	T	3	3	other	mother	1	2	0	no	yes	4	3	12
+GP	M	16	U	GT3	T	1	2	other	mother	1	1	0	yes	yes	3	3	2
+GP	M	16	U	LE3	T	2	1	course	mother	1	2	0	yes	yes	4	2	0
+GP	F	17	U	GT3	A	3	3	reputation	mother	1	2	0	no	no	3	3	6
+GP	M	17	R	GT3	T	1	2	home	mother	1	2	0	no	no	3	1	4
+GP	F	16	U	GT3	T	2	3	course	mother	1	2	0	no	no	4	3	10
+GP	F	17	U	GT3	T	1	1	course	mother	1	2	0	no	yes	5	3	0
+GP	M	17	U	GT3	T	1	2	other	other	2	2	0	yes	yes	4	4	12
+GP	M	16	R	GT3	T	3	3	reputation	mother	1	1	0	no	yes	4	3	8
+GP	M	16	U	GT3	T	2	3	home	father	2	1	0	no	no	5	3	0
+GP	F	17	U	LE3	T	2	4	course	father	1	2	0	no	yes	4	3	0
+GP	M	17	U	GT3	T	4	4	home	mother	1	1	0	no	no	5	2	4
+GP	M	16	R	LE3	T	3	3	home	father	3	1	0	yes	yes	3	3	8
+GP	F	17	U	GT3	T	4	4	home	mother	2	1	1	no	no	4	2	24
+GP	F	16	U	LE3	T	4	4	reputation	mother	1	2	0	yes	no	4	5	0
+GP	F	16	U	GT3	T	4	3	home	mother	1	2	0	no	yes	4	3	2
+GP	F	16	U	GT3	T	2	3	reputation	mother	1	2	0	yes	yes	4	4	6
+GP	F	17	U	GT3	T	1	1	course	mother	1	2	0	yes	no	4	4	4
+GP	F	17	R	GT3	T	2	2	reputation	mother	1	1	0	no	no	5	3	18
+GP	F	16	R	GT3	T	2	2	reputation	mother	2	4	0	yes	yes	5	3	6
+GP	F	17	U	GT3	T	3	4	home	mother	1	3	1	yes	no	4	4	28
+GP	F	16	U	GT3	A	3	1	course	mother	1	2	3	yes	no	2	3	5
+GP	F	16	U	GT3	T	4	3	other	mother	1	2	0	yes	yes	1	3	10
+GP	F	16	U	GT3	T	1	1	home	mother	2	1	0	yes	no	4	3	6
+GP	F	17	R	GT3	T	4	3	reputation	mother	2	3	0	yes	yes	4	4	6
+GP	F	19	U	GT3	T	3	3	reputation	other	1	4	0	yes	yes	4	3	10
+GP	M	17	U	LE3	T	4	4	home	mother	1	2	0	yes	no	5	3	13
+GP	F	16	U	GT3	A	2	2	reputation	mother	1	2	0	yes	no	3	3	0
+GP	M	18	U	GT3	T	2	2	home	mother	1	2	1	yes	yes	4	4	15
+GP	F	17	R	LE3	T	4	4	other	mother	1	1	0	yes	no	5	2	12
+GP	F	17	U	LE3	T	3	2	reputation	mother	2	2	0	yes	no	4	4	2
+GP	F	17	U	GT3	T	4	3	reputation	mother	1	2	2	yes	no	3	4	22
+GP	M	18	U	LE3	T	3	3	home	father	1	2	1	yes	no	3	2	13
+GP	F	17	U	GT3	T	2	3	home	father	2	1	0	yes	no	3	3	3
+GP	F	17	U	GT3	T	2	2	course	mother	1	3	0	yes	yes	4	3	4
+GP	F	17	R	GT3	T	2	1	reputation	mother	2	2	0	no	yes	4	2	2
+GP	F	17	U	GT3	T	1	1	reputation	mother	1	3	1	no	yes	4	3	0
+GP	F	16	U	GT3	T	2	3	other	mother	1	2	0	no	no	2	3	2
+GP	M	18	U	GT3	T	2	2	home	mother	2	2	0	yes	no	3	3	0
+GP	F	16	U	GT3	T	4	4	home	mother	1	3	0	no	yes	5	3	0
+GP	F	18	R	GT3	T	3	1	reputation	mother	1	2	1	no	yes	5	3	16
+GP	F	17	U	GT3	T	3	2	course	mother	1	2	0	no	yes	5	3	10
+GP	M	17	U	LE3	T	2	3	reputation	father	1	2	0	yes	no	5	3	2
+GP	M	18	U	LE3	T	2	1	course	mother	4	2	0	yes	yes	4	3	14
+GP	F	17	U	GT3	A	2	1	course	mother	2	3	0	no	yes	3	2	10
+GP	F	17	U	LE3	T	4	3	reputation	father	1	2	0	no	yes	3	2	14
+GP	M	17	R	GT3	T	2	2	course	father	2	2	0	yes	yes	4	5	4
+GP	M	17	U	GT3	T	4	4	reputation	mother	1	2	0	no	yes	4	5	14
+GP	M	16	U	GT3	T	4	4	reputation	father	1	2	0	yes	yes	4	2	2
+GP	M	16	U	LE3	T	1	1	home	mother	2	2	0	yes	no	3	4	18
+GP	M	16	U	GT3	T	3	2	reputation	mother	2	3	0	no	yes	5	3	10
+GP	M	17	U	LE3	T	2	2	home	father	1	2	0	yes	yes	4	4	4
+GP	F	16	U	GT3	T	2	1	home	mother	1	1	0	no	no	4	5	20
+GP	F	17	R	GT3	T	2	1	course	mother	3	2	0	no	yes	2	1	2
+GP	M	18	U	GT3	T	2	2	reputation	father	1	2	1	no	no	5	5	0
+GP	M	17	U	LE3	T	4	3	course	mother	2	2	0	no	yes	2	5	14
+GP	M	17	R	LE3	A	4	4	course	mother	2	2	0	yes	no	3	3	2
+GP	M	16	U	LE3	T	4	3	course	mother	1	1	0	no	yes	5	4	0
+GP	M	16	U	GT3	T	4	4	course	mother	1	1	0	no	yes	5	3	0
+GP	F	18	U	GT3	T	2	1	course	other	2	3	0	yes	no	4	4	0
+GP	M	16	U	GT3	T	2	1	course	mother	3	1	0	no	no	4	3	6
+GP	M	17	U	GT3	T	2	3	course	father	2	1	0	no	no	5	2	4
+GP	M	22	U	GT3	T	3	1	other	mother	1	1	3	no	no	5	4	16
+GP	M	18	R	LE3	T	3	3	course	mother	1	2	1	no	no	4	3	8
+GP	M	16	U	GT3	T	0	2	other	mother	1	1	0	yes	no	4	3	0
+GP	M	18	U	GT3	T	3	2	course	mother	2	1	1	no	no	4	4	0
+GP	M	16	U	GT3	T	3	3	reputation	other	3	2	0	no	no	5	3	6
+GP	M	18	U	GT3	T	2	1	other	mother	1	1	1	no	no	3	2	4
+GP	M	16	R	GT3	T	2	1	course	mother	2	1	0	no	yes	3	3	0
+GP	M	17	R	GT3	T	2	1	course	mother	1	1	0	no	no	4	4	0
+GP	M	17	U	LE3	T	1	1	course	mother	2	1	1	no	yes	4	4	2
+GP	F	17	U	LE3	T	4	2	reputation	mother	1	4	0	yes	yes	4	2	6
+GP	M	19	U	LE3	A	4	3	reputation	mother	1	2	0	no	no	4	3	12
+GP	M	18	U	GT3	T	2	1	home	mother	1	2	0	no	yes	5	2	8
+GP	F	17	U	LE3	T	2	2	course	father	1	4	0	yes	yes	3	4	0
+GP	F	18	U	GT3	T	4	3	home	father	1	2	0	yes	no	3	1	21
+GP	M	18	U	GT3	T	4	3	course	mother	1	2	0	yes	no	4	3	2
+GP	M	18	R	GT3	T	3	2	course	mother	1	3	0	no	yes	5	3	1
+GP	F	17	U	GT3	T	3	3	home	mother	1	3	0	no	yes	3	2	4
+GP	F	18	U	GT3	T	2	2	home	mother	1	3	0	yes	yes	4	3	0
+GP	M	18	R	LE3	A	3	4	reputation	mother	2	2	0	yes	yes	4	2	13
+GP	M	17	U	GT3	T	3	1	other	mother	1	2	0	yes	yes	5	4	2
+GP	F	18	R	GT3	T	4	4	reputation	mother	2	2	0	yes	yes	4	3	8
+GP	M	18	U	GT3	T	4	2	reputation	father	1	2	0	yes	yes	5	4	10
+GP	F	18	R	GT3	T	2	1	reputation	mother	2	2	0	no	no	4	3	0
+GP	F	19	U	GT3	T	3	3	home	other	1	2	2	yes	yes	4	3	15
+GP	F	18	U	GT3	T	2	3	reputation	father	1	4	0	yes	yes	4	5	4
+GP	F	18	U	LE3	T	1	1	home	mother	2	2	0	yes	no	4	4	2
+GP	M	17	R	GT3	T	1	2	home	mother	1	2	0	yes	yes	3	5	2
+GP	F	17	U	GT3	T	2	4	reputation	mother	2	2	0	yes	no	4	3	2
+GP	F	17	U	LE3	T	2	2	course	mother	2	2	0	yes	no	4	4	6
+GP	F	18	R	GT3	A	3	2	home	mother	2	2	0	no	no	4	1	75
+GP	M	18	U	GT3	T	4	4	home	mother	2	1	0	yes	yes	3	2	22
+GP	F	18	U	GT3	T	4	4	reputation	father	1	2	1	no	yes	2	4	15
+GP	M	18	U	LE3	T	4	3	course	mother	2	1	0	yes	yes	4	2	8
+GP	M	17	U	LE3	A	4	1	home	mother	2	1	0	yes	yes	4	5	30
+GP	M	17	U	LE3	A	3	2	home	mother	1	1	1	no	no	4	4	19
+GP	F	18	R	LE3	T	1	1	reputation	mother	2	4	0	yes	yes	5	2	1
+GP	F	18	U	GT3	T	1	1	home	mother	2	2	0	no	yes	5	4	4
+GP	F	17	U	GT3	T	2	2	course	mother	1	2	0	no	no	5	4	4
+GP	M	17	U	GT3	T	1	1	reputation	father	1	2	0	yes	no	4	3	2
+GP	F	18	U	GT3	T	2	2	other	mother	1	3	0	yes	no	4	3	5
+GP	F	17	U	GT3	T	1	1	reputation	mother	1	3	0	yes	no	4	3	6
+GP	M	18	U	GT3	T	2	1	reputation	mother	1	3	0	yes	yes	4	2	6
+GP	M	18	U	LE3	A	4	4	reputation	mother	1	2	0	yes	yes	5	4	9
+GP	M	18	U	GT3	T	4	2	home	mother	1	2	0	yes	yes	4	3	11
+GP	F	17	U	GT3	T	4	3	reputation	mother	1	3	0	yes	no	4	2	0
+GP	F	18	U	LE3	T	2	1	reputation	mother	1	2	1	no	no	5	4	12
+GP	F	17	R	LE3	T	3	1	reputation	mother	2	4	0	yes	no	3	1	6
+GP	M	18	R	LE3	T	3	2	reputation	mother	2	3	0	yes	yes	5	4	8
+GP	M	17	U	GT3	T	3	3	home	mother	1	1	0	yes	no	4	4	4
+GP	F	19	U	GT3	T	4	4	reputation	other	2	2	0	yes	yes	2	3	0
+GP	F	18	U	LE3	T	4	3	home	other	2	2	0	yes	no	4	4	10
+GP	F	18	U	GT3	T	4	3	reputation	father	1	4	0	yes	no	4	3	0
+GP	M	18	U	LE3	T	4	4	home	mother	1	1	0	yes	no	1	4	5
+GP	F	18	U	LE3	A	4	4	home	mother	1	2	0	no	no	4	2	14
+GP	M	17	U	LE3	T	4	4	home	father	2	1	0	yes	no	4	1	0
+GP	F	17	U	GT3	T	4	2	reputation	mother	2	3	0	yes	no	4	3	0
+GP	F	17	U	GT3	T	3	2	reputation	father	1	4	0	yes	yes	5	2	0
+GP	M	19	U	GT3	T	3	3	home	other	1	2	1	no	yes	4	4	20
+GP	F	18	U	GT3	T	2	4	reputation	other	1	2	1	yes	yes	4	4	8
+GP	M	20	U	GT3	A	3	2	course	other	1	1	0	no	yes	5	5	0
+GP	M	19	U	GT3	T	4	4	reputation	other	2	1	1	yes	no	4	3	38
+GP	M	19	R	GT3	T	3	3	reputation	father	1	2	1	no	yes	4	5	0
+GP	F	19	U	LE3	T	1	1	reputation	other	1	2	1	no	yes	4	4	18
+GP	F	19	U	LE3	T	1	2	home	other	1	2	1	no	yes	4	2	0
+GP	F	19	U	GT3	T	2	1	other	other	3	2	0	no	no	3	4	20
+GP	M	19	U	GT3	T	1	2	course	other	1	2	1	no	no	4	5	3
+GP	F	19	U	LE3	T	3	2	reputation	other	2	2	1	yes	no	4	2	22
+GP	F	19	U	GT3	T	1	1	home	other	1	3	2	no	no	4	1	14
+GP	F	19	R	GT3	T	2	3	reputation	other	1	3	1	no	no	4	1	40
+GP	F	18	U	GT3	T	2	1	course	mother	2	2	0	yes	yes	5	3	0
+GP	F	18	U	GT3	T	4	3	course	mother	1	3	0	yes	yes	4	3	9
+GP	F	17	R	GT3	T	3	4	course	father	1	3	0	yes	yes	4	3	0
+GP	F	18	U	GT3	T	4	4	course	mother	1	2	0	yes	no	4	4	2
+GP	F	17	U	GT3	A	4	3	course	mother	1	2	0	yes	no	5	2	23
+GP	F	17	U	GT3	T	2	2	course	mother	1	2	0	no	no	4	2	12
+GP	F	17	R	LE3	T	2	2	course	mother	1	3	0	yes	yes	3	3	3
+GP	F	17	U	GT3	T	3	1	course	father	1	3	0	no	no	3	4	1
+GP	F	17	U	LE3	T	0	2	home	father	2	3	0	no	no	3	3	0
+GP	M	18	U	GT3	T	4	4	course	mother	1	3	0	no	yes	4	3	3
+GP	M	17	U	GT3	T	3	3	reputation	mother	1	1	0	no	yes	4	3	3
+GP	M	17	R	GT3	T	2	2	course	mother	4	1	0	no	no	4	4	8
+GP	F	17	U	GT3	T	4	4	course	mother	1	3	0	yes	yes	5	4	7
+GP	F	17	U	GT3	T	4	4	course	mother	2	3	0	yes	no	4	3	4
+GP	M	18	U	LE3	T	2	2	course	mother	1	4	0	no	yes	4	5	2
+GP	F	17	R	GT3	T	2	4	course	father	1	3	0	no	no	4	4	7
+GP	F	18	U	GT3	T	3	3	home	mother	1	2	0	no	yes	5	3	0
+GP	F	18	U	LE3	T	2	2	home	other	1	2	0	no	yes	4	3	0
+GP	F	18	R	GT3	T	2	2	course	mother	2	4	0	no	yes	4	4	0
+GP	F	17	U	GT3	T	3	4	course	mother	1	3	0	no	no	4	4	16
+GP	F	19	R	GT3	A	3	1	home	other	1	3	1	yes	no	5	4	12
+GP	F	17	U	GT3	T	3	2	home	mother	1	2	0	yes	no	4	3	0
+GP	F	18	U	LE3	T	3	3	home	mother	1	4	0	no	no	5	3	7
+GP	F	17	R	GT3	A	3	2	home	mother	1	2	0	yes	no	4	3	4
+GP	F	19	U	GT3	T	2	1	home	other	1	3	1	yes	yes	4	3	4
+GP	M	18	U	GT3	T	4	4	home	father	1	2	1	no	yes	4	3	0
+GP	M	18	U	LE3	T	3	4	home	mother	1	2	0	no	yes	4	3	11
+GP	F	17	U	GT3	A	2	2	home	father	1	2	1	no	no	3	3	0
+GP	F	18	U	GT3	T	2	3	course	mother	1	3	0	no	no	4	3	4
+GP	F	18	U	GT3	T	3	2	other	mother	1	3	0	no	no	5	4	7
+GP	M	18	R	GT3	T	4	3	course	mother	1	3	0	no	no	5	3	9
+GP	M	18	U	GT3	T	4	3	course	mother	1	3	0	yes	no	5	4	0
+GP	F	17	U	GT3	T	4	3	reputation	mother	1	3	0	yes	yes	4	4	0
+MS	M	18	R	GT3	T	3	2	course	mother	2	1	1	no	no	2	5	10
+MS	M	19	R	GT3	T	1	1	home	other	3	2	3	no	no	5	4	8
+MS	M	17	U	GT3	T	3	3	course	mother	2	2	0	yes	no	4	5	2
+MS	M	18	U	LE3	T	1	3	course	mother	1	1	1	no	no	4	3	7
+MS	M	19	R	GT3	T	1	1	home	other	3	1	1	no	no	4	4	4
+MS	M	17	R	GT3	T	4	3	home	mother	2	2	0	yes	yes	4	5	4
+MS	F	18	U	GT3	T	3	3	course	father	1	2	0	no	no	5	3	0
+MS	F	17	R	GT3	T	4	4	other	father	2	2	0	yes	yes	4	3	4
+MS	F	17	U	LE3	A	3	2	reputation	mother	2	2	0	no	no	1	2	2
+MS	M	18	U	LE3	T	1	1	home	father	2	1	0	no	no	3	3	4
+MS	F	18	U	LE3	T	1	1	course	father	2	3	0	no	no	5	3	0
+MS	F	18	R	LE3	A	1	4	course	mother	3	2	0	no	no	4	3	0
+MS	M	18	R	LE3	T	1	1	other	mother	2	2	1	no	yes	4	4	2
+MS	F	18	U	GT3	T	3	3	other	mother	2	2	0	no	no	4	3	0
+MS	F	17	U	LE3	T	4	4	course	mother	1	2	0	yes	yes	2	3	0
+MS	F	17	R	GT3	T	1	2	course	father	2	2	0	no	no	3	2	0
+MS	M	18	R	GT3	T	1	3	course	mother	2	2	0	yes	no	3	3	4
+MS	M	18	U	LE3	T	4	4	other	mother	2	3	0	yes	no	4	2	0
+MS	F	17	R	GT3	T	1	1	reputation	mother	3	1	1	yes	no	5	2	0
+MS	F	18	U	GT3	T	2	3	course	father	2	1	0	yes	no	5	2	0
+MS	F	18	R	GT3	T	4	4	other	father	3	2	0	yes	no	3	2	10
+MS	F	19	U	LE3	T	3	2	home	other	2	2	2	no	yes	3	2	4
+MS	M	18	R	LE3	T	1	2	other	father	3	1	0	yes	yes	4	3	3
+MS	F	17	U	GT3	T	2	2	home	mother	1	3	0	no	yes	3	4	8
+MS	F	17	R	GT3	T	1	2	course	mother	1	1	0	no	yes	3	5	14
+MS	F	18	R	LE3	T	4	4	reputation	mother	2	3	0	no	no	5	4	0
+MS	F	18	R	GT3	T	1	1	home	mother	4	3	0	no	no	4	3	2
+MS	F	20	U	GT3	T	4	2	course	other	2	3	2	yes	no	5	4	4
+MS	F	18	R	LE3	T	4	4	course	mother	1	2	0	yes	yes	5	4	4
+MS	F	18	U	GT3	T	3	3	home	mother	1	2	0	yes	no	4	1	0
+MS	F	17	R	GT3	T	3	1	reputation	mother	1	2	0	yes	yes	4	5	17
+MS	M	18	U	GT3	T	4	4	home	father	1	2	0	yes	yes	3	2	4
+MS	M	18	R	GT3	T	2	1	other	mother	2	1	0	no	yes	4	4	5
+MS	M	17	U	GT3	T	2	3	home	father	2	2	0	no	yes	4	4	2
+MS	M	19	R	GT3	T	1	1	other	mother	2	1	1	no	no	4	3	0
+MS	M	18	R	GT3	T	4	2	home	father	2	1	1	yes	no	5	4	14
+MS	F	18	R	GT3	T	2	2	other	mother	2	3	0	yes	no	5	3	2
+MS	F	18	R	GT3	T	4	4	reputation	mother	3	1	0	yes	yes	4	4	7
+MS	F	19	R	GT3	T	2	3	course	mother	1	3	1	no	yes	5	4	0
+MS	F	18	U	LE3	T	3	1	course	mother	1	2	0	yes	no	4	3	0
+MS	F	18	U	GT3	T	1	1	course	mother	2	2	1	no	yes	1	1	0
+MS	M	20	U	LE3	A	2	2	course	other	1	2	2	yes	no	5	5	11
+MS	M	17	U	LE3	T	3	1	course	mother	2	1	0	no	no	2	4	3
+MS	M	21	R	GT3	T	1	1	course	other	1	1	3	no	no	5	5	3
+MS	M	18	R	LE3	T	3	2	course	mother	3	1	0	no	no	4	4	0
+MS	M	19	U	LE3	T	1	1	course	father	1	1	0	no	no	3	2	5
